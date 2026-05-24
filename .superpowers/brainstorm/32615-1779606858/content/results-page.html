@@ -1,0 +1,150 @@
+<h2>Results Page — <code>/results</code></h2>
+<p class="subtitle">What users see after completing the assessment — radar chart, top intelligences, and tailored recommendations</p>
+
+<div class="mockup" style="max-width: 760px; margin: 0 auto;">
+  <div class="mockup-header">/results — Your Intelligence Profile</div>
+  <div class="mockup-body" style="padding:0; overflow:hidden; border-radius: 0 0 10px 10px;">
+
+    <!-- Nav -->
+    <div style="background:#1e293b; padding: 10px 24px; display:flex; justify-content:space-between; align-items:center;">
+      <span style="color:#a78bfa; font-weight:bold; font-size:14px;">🧠 MindMap MI</span>
+      <div style="display:flex; gap:10px;">
+        <button style="background:#1e293b; color:#64748b; border:1px solid #334155; padding:5px 12px; border-radius:6px; font-size:11px;">🖨️ Print</button>
+        <button style="background:#6366f1; color:#fff; border:none; padding:5px 12px; border-radius:6px; font-size:11px;">🔗 Share Results</button>
+        <button style="background:#1e293b; color:#64748b; border:1px solid #334155; padding:5px 12px; border-radius:6px; font-size:11px;">🔄 Retake</button>
+      </div>
+    </div>
+
+    <!-- Hero result -->
+    <div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 24px 28px; text-align:center;">
+      <div style="color:#a78bfa; font-size:11px; text-transform:uppercase; letter-spacing:1px; margin-bottom:6px;">Your Intelligence Profile · High School</div>
+      <h2 style="color:#fff; margin:0 0 6px; font-size:20px;">You're a <span style="color:#f472b6;">Musical-Spatial</span> Thinker</h2>
+      <p style="color:#94a3b8; font-size:12px; margin:0;">Your mind works through patterns, rhythm, and visual thinking — you see the world in structures others often miss.</p>
+    </div>
+
+    <!-- Two-column layout: Radar + Top 3 -->
+    <div style="background:#0f172a; padding:20px 24px; display:grid; grid-template-columns: 1fr 1.4fr; gap:20px; align-items:start;">
+
+      <!-- Radar Chart (SVG approximation) -->
+      <div>
+        <div style="color:#64748b; font-size:10px; text-transform:uppercase; letter-spacing:1px; margin-bottom:10px; text-align:center;">All 10 Intelligences</div>
+        <div style="background:#1e293b; border-radius:12px; padding:16px; text-align:center;">
+          <svg viewBox="0 0 200 200" width="180" height="180" style="display:block;margin:auto;">
+            <!-- Pentagon grid lines -->
+            <polygon points="100,20 180,80 155,170 45,170 20,80" fill="none" stroke="#334155" stroke-width="0.8"/>
+            <polygon points="100,44 156,88 138,152 62,152 44,88" fill="none" stroke="#334155" stroke-width="0.8"/>
+            <polygon points="100,68 132,96 121,134 79,134 68,96" fill="none" stroke="#334155" stroke-width="0.8"/>
+            <!-- Axes -->
+            <line x1="100" y1="100" x2="100" y2="20" stroke="#334155" stroke-width="0.5"/>
+            <line x1="100" y1="100" x2="180" y2="80" stroke="#334155" stroke-width="0.5"/>
+            <line x1="100" y1="100" x2="155" y2="170" stroke="#334155" stroke-width="0.5"/>
+            <line x1="100" y1="100" x2="45" y2="170" stroke="#334155" stroke-width="0.5"/>
+            <line x1="100" y1="100" x2="20" y2="80" stroke="#334155" stroke-width="0.5"/>
+            <!-- Score polygon (filled) -->
+            <polygon points="100,30 168,82 140,162 60,162 32,75" fill="rgba(244,114,182,0.25)" stroke="#f472b6" stroke-width="1.5"/>
+            <!-- Dots -->
+            <circle cx="100" cy="30" r="3" fill="#f472b6"/>
+            <circle cx="168" cy="82" r="3" fill="#a78bfa"/>
+            <circle cx="140" cy="162" r="3" fill="#60a5fa"/>
+            <circle cx="60" cy="162" r="3" fill="#34d399"/>
+            <circle cx="32" cy="75" r="3" fill="#fbbf24"/>
+            <!-- Labels -->
+            <text x="100" y="14" text-anchor="middle" fill="#f472b6" font-size="8" font-weight="bold">🎵 Musical</text>
+            <text x="185" y="78" text-anchor="start" fill="#a78bfa" font-size="7">🗺️ Spatial</text>
+            <text x="158" y="182" text-anchor="middle" fill="#60a5fa" font-size="7">💻 Digital</text>
+            <text x="42" y="182" text-anchor="middle" fill="#34d399" font-size="7">🌿 Natural</text>
+            <text x="12" y="75" text-anchor="middle" fill="#fbbf24" font-size="7">📚 Ling</text>
+          </svg>
+          <div style="color:#64748b; font-size:10px; margin-top:6px;">Scores across all 10 intelligences</div>
+        </div>
+      </div>
+
+      <!-- Top 3 Intelligences -->
+      <div>
+        <div style="color:#64748b; font-size:10px; text-transform:uppercase; letter-spacing:1px; margin-bottom:10px;">Your Top Intelligences</div>
+        <div style="display:flex; flex-direction:column; gap:10px;">
+
+          <!-- #1 -->
+          <div style="background:#1e293b; border-left:3px solid #f472b6; border-radius:8px; padding:12px 14px;">
+            <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:6px;">
+              <div style="display:flex; align-items:center; gap:8px;">
+                <span style="font-size:18px;">🎵</span>
+                <span style="color:#f472b6; font-weight:bold; font-size:13px;">#1 Musical</span>
+              </div>
+              <span style="color:#f472b6; font-weight:bold; font-size:13px;">92%</span>
+            </div>
+            <div style="background:#0f172a; border-radius:4px; height:4px; margin-bottom:6px;">
+              <div style="background:#f472b6; width:92%; height:4px; border-radius:4px;"></div>
+            </div>
+            <p style="color:#94a3b8; font-size:11px; margin:0;">You think in rhythms and patterns. Music, cadence, and tone are natural languages for you.</p>
+          </div>
+
+          <!-- #2 -->
+          <div style="background:#1e293b; border-left:3px solid #a78bfa; border-radius:8px; padding:12px 14px;">
+            <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:6px;">
+              <div style="display:flex; align-items:center; gap:8px;">
+                <span style="font-size:18px;">🗺️</span>
+                <span style="color:#a78bfa; font-weight:bold; font-size:13px;">#2 Spatial</span>
+              </div>
+              <span style="color:#a78bfa; font-weight:bold; font-size:13px;">85%</span>
+            </div>
+            <div style="background:#0f172a; border-radius:4px; height:4px; margin-bottom:6px;">
+              <div style="background:#a78bfa; width:85%; height:4px; border-radius:4px;"></div>
+            </div>
+            <p style="color:#94a3b8; font-size:11px; margin:0;">You visualize easily and think in images. Art, design, navigation, and maps come naturally.</p>
+          </div>
+
+          <!-- #3 -->
+          <div style="background:#1e293b; border-left:3px solid #38bdf8; border-radius:8px; padding:12px 14px;">
+            <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:6px;">
+              <div style="display:flex; align-items:center; gap:8px;">
+                <span style="font-size:18px;">💻</span>
+                <span style="color:#38bdf8; font-weight:bold; font-size:13px;">#3 Digital</span>
+              </div>
+              <span style="color:#38bdf8; font-weight:bold; font-size:13px;">78%</span>
+            </div>
+            <div style="background:#0f172a; border-radius:4px; height:4px; margin-bottom:6px;">
+              <div style="background:#38bdf8; width:78%; height:4px; border-radius:4px;"></div>
+            </div>
+            <p style="color:#94a3b8; font-size:11px; margin:0;">You're fluent in digital tools and systems. Technology feels intuitive and you adapt quickly.</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Recommendations strip -->
+    <div style="background:#0f172a; padding: 16px 24px; border-top:1px solid #1e293b;">
+      <div style="color:#64748b; font-size:10px; text-transform:uppercase; letter-spacing:1px; margin-bottom:12px;">Tailored Recommendations · High School</div>
+      <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:10px;">
+        <div style="background:#1e293b; border-radius:8px; padding:12px;">
+          <div style="font-size:16px; margin-bottom:6px;">🎓</div>
+          <div style="color:#e2e8f0; font-size:11px; font-weight:bold; margin-bottom:4px;">Learning Strategies</div>
+          <div style="color:#64748b; font-size:10px; line-height:1.5;">Use music mnemonics · Draw concept maps · Create visual notes · Study with background music</div>
+        </div>
+        <div style="background:#1e293b; border-radius:8px; padding:12px;">
+          <div style="font-size:16px; margin-bottom:6px;">🚀</div>
+          <div style="color:#e2e8f0; font-size:11px; font-weight:bold; margin-bottom:4px;">Career Paths to Explore</div>
+          <div style="color:#64748b; font-size:10px; line-height:1.5;">Music production · UX/UI design · Architecture · Game design · Film scoring · Animation</div>
+        </div>
+        <div style="background:#1e293b; border-radius:8px; padding:12px;">
+          <div style="font-size:16px; margin-bottom:6px;">📚</div>
+          <div style="color:#e2e8f0; font-size:11px; font-weight:bold; margin-bottom:4px;">Subjects to Lean Into</div>
+          <div style="color:#64748b; font-size:10px; line-height:1.5;">Art · Music theory · Computer science · Geometry · Graphic design · Film studies</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Full breakdown link -->
+    <div style="background:#0f172a; padding: 12px 24px; border-top:1px solid #1e293b; display:flex; justify-content:space-between; align-items:center;">
+      <span style="color:#64748b; font-size:11px;">See all 10 intelligence scores ↓</span>
+      <div style="display:flex; gap:8px;">
+        <button style="background:#1e293b; color:#64748b; border:1px solid #334155; padding:5px 12px; border-radius:6px; font-size:10px;">📋 For Educators</button>
+        <button style="background:#6366f1; color:#fff; border:none; padding:5px 14px; border-radius:6px; font-size:10px; font-weight:bold;">Learn more about your intelligences →</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<p class="subtitle" style="text-align:center; margin-top:16px;">Does this results page capture what you envisioned? Any changes to the layout, what's shown, or how recommendations are framed?</p>

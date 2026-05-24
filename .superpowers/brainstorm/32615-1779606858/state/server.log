@@ -1,0 +1,8 @@
+{"type":"server-started","port":51925,"host":"127.0.0.1","url_host":"localhost","url":"http://localhost:51925","screen_dir":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/content","state_dir":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/state"}
+{"type":"screen-added","file":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/content/site-architecture.html"}
+{"type":"screen-added","file":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/content/landing-page.html"}
+{"type":"screen-added","file":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/content/tier-selector.html"}
+{"type":"screen-added","file":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/content/assessment-wizard.html"}
+{"type":"screen-added","file":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/content/results-page.html"}
+{"type":"screen-added","file":"/Users/srmallip/projects/mi/.superpowers/brainstorm/32615-1779606858/content/waiting-1.html"}
+{"type":"server-stopped","reason":"idle timeout"}
