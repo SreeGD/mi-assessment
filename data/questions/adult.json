@@ -1,0 +1,146 @@
+{
+  "scenario": [
+    {
+      "id": "ad-s-01", "type": "scenario", "intelligence": "linguistic",
+      "prompt": "On a high-stakes work project, you naturally gravitate toward...",
+      "options": [
+        { "text": "Owning the written deliverables — reports, proposals, and narratives", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Designing the visual presentation and data visualization", "emoji": "🗺️", "intelligence": "spatial" },
+        { "text": "Shaping the tone and rhythm of how the message lands", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Prototyping, building, and hands-on execution", "emoji": "🤸", "intelligence": "bodily" }
+      ]
+    },
+    {
+      "id": "ad-s-02", "type": "scenario", "intelligence": "logical",
+      "prompt": "When facing a complex strategic decision at work, you...",
+      "options": [
+        { "text": "Build a structured framework — data, criteria, and weighted trade-offs", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Read the stakeholders and build consensus before deciding", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Spend time in deep reflection to clarify your values and priorities", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Look for patterns from precedent — what has history or nature shown?", "emoji": "🌿", "intelligence": "naturalist" }
+      ]
+    },
+    {
+      "id": "ad-s-03", "type": "scenario", "intelligence": "spatial",
+      "prompt": "Your team needs to rethink the office workspace. You...",
+      "options": [
+        { "text": "Immediately start sketching floor plans and visualizing the flow", "emoji": "🗺️", "intelligence": "spatial" },
+        { "text": "Ask deeper questions: what kind of culture do we want this space to reflect?", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Research and prototype using design tools or virtual floor plan software", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Write a brief outlining the vision, principles, and rationale", "emoji": "📖", "intelligence": "linguistic" }
+      ]
+    },
+    {
+      "id": "ad-s-04", "type": "scenario", "intelligence": "musical",
+      "prompt": "To decompress after an intense work week, you most naturally...",
+      "options": [
+        { "text": "Play, listen to, or create music — it resets you completely", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Tackle a puzzle, a side project, or something analytically engaging", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Train, hike, cook, or work with your hands — physical activity restores you", "emoji": "🤸", "intelligence": "bodily" },
+        { "text": "Gather with people you care about — social energy recharges you", "emoji": "👥", "intelligence": "interpersonal" }
+      ]
+    },
+    {
+      "id": "ad-s-05", "type": "scenario", "intelligence": "bodily",
+      "prompt": "Your ideal professional development experience would be...",
+      "options": [
+        { "text": "A hands-on workshop, field experience, or active simulation", "emoji": "🤸", "intelligence": "bodily" },
+        { "text": "A solo retreat for deep reflection and personal clarity", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "An immersive outdoor experience connecting work to the natural world", "emoji": "🌿", "intelligence": "naturalist" },
+        { "text": "A philosophical or values-based retreat on leadership and meaning", "emoji": "✨", "intelligence": "existential" }
+      ]
+    },
+    {
+      "id": "ad-s-06", "type": "scenario", "intelligence": "interpersonal",
+      "prompt": "A colleague is visibly struggling in a meeting. You...",
+      "options": [
+        { "text": "Catch their eye, create space for them, and check in afterward", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Send a supportive message with relevant resources after the meeting", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Follow up with a thoughtful written note or email", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Identify what's causing the difficulty and propose a structural fix", "emoji": "🔢", "intelligence": "logical" }
+      ]
+    },
+    {
+      "id": "ad-s-07", "type": "scenario", "intelligence": "intrapersonal",
+      "prompt": "When navigating a major career transition, you rely most on...",
+      "options": [
+        { "text": "Deep inner work — values clarification, journaling, and extended reflection", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Mapping options visually and creating structured diagrams of possibilities", "emoji": "🗺️", "intelligence": "spatial" },
+        { "text": "Processing the transition emotionally through music and creative outlets", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Physical activity and hands-on projects that keep you grounded", "emoji": "🤸", "intelligence": "bodily" }
+      ]
+    },
+    {
+      "id": "ad-s-08", "type": "scenario", "intelligence": "naturalist",
+      "prompt": "In your professional life, you're most drawn to work that...",
+      "options": [
+        { "text": "Connects to natural systems — sustainability, ecology, or living environments", "emoji": "🌿", "intelligence": "naturalist" },
+        { "text": "Centers on human connection, community, and collective well-being", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Addresses fundamental questions about meaning, justice, or purpose", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Leverages technology to scale impact and solve systemic problems", "emoji": "💻", "intelligence": "digital" }
+      ]
+    },
+    {
+      "id": "ad-s-09", "type": "scenario", "intelligence": "existential",
+      "prompt": "When evaluating whether to take a new role, your primary question is...",
+      "options": [
+        { "text": "Does this work matter — does it connect to something meaningful?", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Can I craft narratives and ideas that genuinely move people?", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Does the strategy make sense — is there a clear, logical path to impact?", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Can I shape how things look, feel, and function in the world?", "emoji": "🗺️", "intelligence": "spatial" }
+      ]
+    },
+    {
+      "id": "ad-s-10", "type": "scenario", "intelligence": "digital",
+      "prompt": "In your ideal role, you would spend significant time...",
+      "options": [
+        { "text": "Building systems, tools, or platforms that create scale and leverage", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Creating or curating content with strong aesthetic and emotional resonance", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Doing deep, focused individual work with significant autonomy", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Working directly with natural environments or living systems", "emoji": "🌿", "intelligence": "naturalist" }
+      ]
+    }
+  ],
+  "likert": [
+    { "id": "ad-l-lin-01", "type": "likert", "intelligence": "linguistic", "statement": "Written and verbal communication are genuine professional strengths of mine.", "reverse": false },
+    { "id": "ad-l-lin-02", "type": "likert", "intelligence": "linguistic", "statement": "I can adapt my language and communication style for different audiences and contexts.", "reverse": false },
+    { "id": "ad-l-lin-03", "type": "likert", "intelligence": "linguistic", "statement": "I gravitate toward roles that involve crafting narratives, explanations, or persuasive content.", "reverse": false },
+    { "id": "ad-l-lin-04", "type": "likert", "intelligence": "linguistic", "statement": "Language patterns — in literature, media, law, or rhetoric — consistently engage my attention.", "reverse": false },
+    { "id": "ad-l-log-01", "type": "likert", "intelligence": "logical", "statement": "Quantitative analysis, systems thinking, and logical frameworks are core to how I work.", "reverse": false },
+    { "id": "ad-l-log-02", "type": "likert", "intelligence": "logical", "statement": "I'm drawn to roles involving strategy, data, research, or complex problem-solving.", "reverse": false },
+    { "id": "ad-l-log-03", "type": "likert", "intelligence": "logical", "statement": "I evaluate claims rigorously and naturally look for evidence before drawing conclusions.", "reverse": false },
+    { "id": "ad-l-log-04", "type": "likert", "intelligence": "logical", "statement": "I find genuine intellectual satisfaction in deconstructing complex problems into components.", "reverse": false },
+    { "id": "ad-l-spa-01", "type": "likert", "intelligence": "spatial", "statement": "Visual thinking — design, architecture, mapping, or data visualization — is a professional strength.", "reverse": false },
+    { "id": "ad-l-spa-02", "type": "likert", "intelligence": "spatial", "statement": "I'm attuned to aesthetics, spatial relationships, and how things look and feel.", "reverse": false },
+    { "id": "ad-l-spa-03", "type": "likert", "intelligence": "spatial", "statement": "In my best work, I'm translating ideas into visual or spatial form.", "reverse": false },
+    { "id": "ad-l-spa-04", "type": "likert", "intelligence": "spatial", "statement": "I navigate new environments quickly and have a strong intuitive sense of space.", "reverse": false },
+    { "id": "ad-l-mus-01", "type": "likert", "intelligence": "musical", "statement": "Music is not a hobby — it's a fundamental part of how I process and create.", "reverse": false },
+    { "id": "ad-l-mus-02", "type": "likert", "intelligence": "musical", "statement": "I'm deeply sensitive to rhythm, cadence, and the emotional texture of sound.", "reverse": false },
+    { "id": "ad-l-mus-03", "type": "likert", "intelligence": "musical", "statement": "I bring a musician's ear for pattern, structure, and timing to my professional work.", "reverse": false },
+    { "id": "ad-l-mus-04", "type": "likert", "intelligence": "musical", "statement": "Creating, performing, or analyzing music is one of my most authentic modes of expression.", "reverse": false },
+    { "id": "ad-l-bod-01", "type": "likert", "intelligence": "bodily", "statement": "Physical craft — athletic, culinary, surgical, or artisanal — is central to my professional identity.", "reverse": false },
+    { "id": "ad-l-bod-02", "type": "likert", "intelligence": "bodily", "statement": "I do my best thinking and problem-solving when physically engaged.", "reverse": false },
+    { "id": "ad-l-bod-03", "type": "likert", "intelligence": "bodily", "statement": "Hands-on execution and embodied skill are where I add the most distinctive value.", "reverse": false },
+    { "id": "ad-l-bod-04", "type": "likert", "intelligence": "bodily", "statement": "Kinesthetic learning — learning by doing — has always been my most effective mode.", "reverse": false },
+    { "id": "ad-l-itp-01", "type": "likert", "intelligence": "interpersonal", "statement": "Reading people, building trust, and navigating complex human dynamics are core professional skills.", "reverse": false },
+    { "id": "ad-l-itp-02", "type": "likert", "intelligence": "interpersonal", "statement": "I thrive in roles involving leadership, facilitation, coaching, or stakeholder management.", "reverse": false },
+    { "id": "ad-l-itp-03", "type": "likert", "intelligence": "interpersonal", "statement": "I have a track record of building effective teams and resolving interpersonal conflict.", "reverse": false },
+    { "id": "ad-l-itp-04", "type": "likert", "intelligence": "interpersonal", "statement": "Emotional intelligence is something I actively develop and apply in professional relationships.", "reverse": false },
+    { "id": "ad-l-itr-01", "type": "likert", "intelligence": "intrapersonal", "statement": "Self-awareness — knowing my values, triggers, and growth edges — is a professional priority.", "reverse": false },
+    { "id": "ad-l-itr-02", "type": "likert", "intelligence": "intrapersonal", "statement": "I do my best work with significant autonomy, clear personal ownership, and time to think.", "reverse": false },
+    { "id": "ad-l-itr-03", "type": "likert", "intelligence": "intrapersonal", "statement": "I have a strong, stable sense of professional identity and the type of work that fulfills me.", "reverse": false },
+    { "id": "ad-l-itr-04", "type": "likert", "intelligence": "intrapersonal", "statement": "Reflective practices — journaling, coaching, therapy, or meditation — are part of my professional toolkit.", "reverse": false },
+    { "id": "ad-l-nat-01", "type": "likert", "intelligence": "naturalist", "statement": "Work connected to natural systems, living environments, or ecological thinking energizes me.", "reverse": false },
+    { "id": "ad-l-nat-02", "type": "likert", "intelligence": "naturalist", "statement": "I notice environmental patterns and systemic relationships that others often overlook.", "reverse": false },
+    { "id": "ad-l-nat-03", "type": "likert", "intelligence": "naturalist", "statement": "Sustainability, conservation, or human-nature relationships are professionally meaningful to me.", "reverse": false },
+    { "id": "ad-l-nat-04", "type": "likert", "intelligence": "naturalist", "statement": "The natural world has been a consistent source of insight, restoration, and inspiration throughout my career.", "reverse": false },
+    { "id": "ad-l-exi-01", "type": "likert", "intelligence": "existential", "statement": "Purpose and meaning are non-negotiable criteria when I evaluate professional opportunities.", "reverse": false },
+    { "id": "ad-l-exi-02", "type": "likert", "intelligence": "existential", "statement": "I'm drawn to work at the intersection of ethics, philosophy, and human well-being.", "reverse": false },
+    { "id": "ad-l-exi-03", "type": "likert", "intelligence": "existential", "statement": "Questions about what makes a life well-lived shape my professional choices.", "reverse": false },
+    { "id": "ad-l-exi-04", "type": "likert", "intelligence": "existential", "statement": "I need my work to contribute to something larger than organizational metrics or personal advancement.", "reverse": false },
+    { "id": "ad-l-dig-01", "type": "likert", "intelligence": "digital", "statement": "Technology fluency and digital systems thinking are core professional competencies of mine.", "reverse": false },
+    { "id": "ad-l-dig-02", "type": "likert", "intelligence": "digital", "statement": "I'm drawn to roles involving software, data, automation, or digital product development.", "reverse": false },
+    { "id": "ad-l-dig-03", "type": "likert", "intelligence": "digital", "statement": "I pick up new platforms and tools quickly and enjoy the process of mastering them.", "reverse": false },
+    { "id": "ad-l-dig-04", "type": "likert", "intelligence": "digital", "statement": "I think carefully about how technology shapes culture, power, and human experience.", "reverse": false }
+  ]
+}

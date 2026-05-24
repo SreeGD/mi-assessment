@@ -1,0 +1,146 @@
+{
+  "scenario": [
+    {
+      "id": "hs-s-01", "type": "scenario", "intelligence": "linguistic",
+      "prompt": "For a major group project, you naturally take on...",
+      "options": [
+        { "text": "Writing and editing — crafting the narrative and explanations", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Visual design — creating the layout, graphics, and presentation", "emoji": "🗺️", "intelligence": "spatial" },
+        { "text": "The soundtrack or audio elements that set the tone", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Hands-on production — building the physical components", "emoji": "🤸", "intelligence": "bodily" }
+      ]
+    },
+    {
+      "id": "hs-s-02", "type": "scenario", "intelligence": "logical",
+      "prompt": "Your friend group needs to split a complex bill fairly. You...",
+      "options": [
+        { "text": "Calculate each person's exact share based on what they ordered", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Gauge the vibe of the group and find what everyone agrees on", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Think through what feels ethically right to you", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Suggest a simple equal split — divide like sharing resources in nature", "emoji": "🌿", "intelligence": "naturalist" }
+      ]
+    },
+    {
+      "id": "hs-s-03", "type": "scenario", "intelligence": "spatial",
+      "prompt": "Your school is redesigning the common area. You...",
+      "options": [
+        { "text": "Immediately start sketching layout ideas and spatial arrangements", "emoji": "🗺️", "intelligence": "spatial" },
+        { "text": "Think about what kind of space creates meaningful community", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Research and mockup a design using architecture or design software", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Write a proposal describing the vision and its rationale", "emoji": "📖", "intelligence": "linguistic" }
+      ]
+    },
+    {
+      "id": "hs-s-04", "type": "scenario", "intelligence": "musical",
+      "prompt": "You're studying for finals. Your most effective approach is...",
+      "options": [
+        { "text": "Creating songs, beats, or rhythmic patterns to memorize key facts", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Building structured outlines and logical concept maps", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Pacing, using flashcards physically, or studying while moving", "emoji": "🤸", "intelligence": "bodily" },
+        { "text": "Forming a study group and talking through the material together", "emoji": "👥", "intelligence": "interpersonal" }
+      ]
+    },
+    {
+      "id": "hs-s-05", "type": "scenario", "intelligence": "bodily",
+      "prompt": "Given a completely free weekend, you'd most naturally...",
+      "options": [
+        { "text": "Train for a sport, go hiking, or work with your hands on a project", "emoji": "🤸", "intelligence": "bodily" },
+        { "text": "Spend extended time in reflection — journaling, meditating, or thinking", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Spend the whole time outdoors exploring natural environments", "emoji": "🌿", "intelligence": "naturalist" },
+        { "text": "Get absorbed in philosophical reading or deep contemplation", "emoji": "✨", "intelligence": "existential" }
+      ]
+    },
+    {
+      "id": "hs-s-06", "type": "scenario", "intelligence": "interpersonal",
+      "prompt": "Someone in your friend group is clearly struggling. You...",
+      "options": [
+        { "text": "Reach out directly and have a real conversation about what's going on", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Send them a thoughtful message with links to resources that might help", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Write them a letter expressing your support", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Analyze the situation and try to identify a concrete solution", "emoji": "🔢", "intelligence": "logical" }
+      ]
+    },
+    {
+      "id": "hs-s-07", "type": "scenario", "intelligence": "intrapersonal",
+      "prompt": "When making a major decision about your future, you...",
+      "options": [
+        { "text": "Spend significant time alone examining your values, fears, and goals", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Create a visual map of the options and their outcomes", "emoji": "🗺️", "intelligence": "spatial" },
+        { "text": "Process your feelings through music — writing or listening", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Work through it physically — running or building something clears your mind", "emoji": "🤸", "intelligence": "bodily" }
+      ]
+    },
+    {
+      "id": "hs-s-08", "type": "scenario", "intelligence": "naturalist",
+      "prompt": "On a field research trip, you're most engaged when...",
+      "options": [
+        { "text": "Observing, cataloging, and analyzing the natural environment", "emoji": "🌿", "intelligence": "naturalist" },
+        { "text": "Collaborating with peers and sharing discoveries", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Thinking about humanity's relationship with the natural world", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Documenting everything through photography and data collection", "emoji": "💻", "intelligence": "digital" }
+      ]
+    },
+    {
+      "id": "hs-s-09", "type": "scenario", "intelligence": "existential",
+      "prompt": "In a philosophy class debate about free will, you...",
+      "options": [
+        { "text": "Drive the conversation — these questions feel fundamental to you", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Craft a carefully structured argument with precise language", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Systematically break down the logical premises of each position", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Draw a conceptual diagram to map out the different philosophical positions", "emoji": "🗺️", "intelligence": "spatial" }
+      ]
+    },
+    {
+      "id": "hs-s-10", "type": "scenario", "intelligence": "digital",
+      "prompt": "For your senior capstone project, you choose to...",
+      "options": [
+        { "text": "Build an interactive app, website, or data visualization", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Compose and produce an original music project or podcast", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Write a deeply personal reflective essay or memoir", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Conduct field research on an environmental topic", "emoji": "🌿", "intelligence": "naturalist" }
+      ]
+    }
+  ],
+  "likert": [
+    { "id": "hs-l-lin-01", "type": "likert", "intelligence": "linguistic", "statement": "Reading and writing feel like natural extensions of how I think.", "reverse": false },
+    { "id": "hs-l-lin-02", "type": "likert", "intelligence": "linguistic", "statement": "I can articulate complex ideas in ways that others understand clearly.", "reverse": false },
+    { "id": "hs-l-lin-03", "type": "likert", "intelligence": "linguistic", "statement": "I'm drawn to storytelling, poetry, or analytical writing as creative outlets.", "reverse": false },
+    { "id": "hs-l-lin-04", "type": "likert", "intelligence": "linguistic", "statement": "I'm sensitive to how word choice shapes meaning and perception.", "reverse": false },
+    { "id": "hs-l-log-01", "type": "likert", "intelligence": "logical", "statement": "I find genuine satisfaction in solving complex mathematical or logical problems.", "reverse": false },
+    { "id": "hs-l-log-02", "type": "likert", "intelligence": "logical", "statement": "I instinctively look for underlying patterns and systems in everything.", "reverse": false },
+    { "id": "hs-l-log-03", "type": "likert", "intelligence": "logical", "statement": "I'm drawn to evidence-based reasoning and skeptical of unsupported claims.", "reverse": false },
+    { "id": "hs-l-log-04", "type": "likert", "intelligence": "logical", "statement": "Abstract thinking and conceptual frameworks come naturally to me.", "reverse": false },
+    { "id": "hs-l-spa-01", "type": "likert", "intelligence": "spatial", "statement": "I think in images and spatial relationships as much as in words.", "reverse": false },
+    { "id": "hs-l-spa-02", "type": "likert", "intelligence": "spatial", "statement": "Art, design, architecture, or visual media genuinely captivates me.", "reverse": false },
+    { "id": "hs-l-spa-03", "type": "likert", "intelligence": "spatial", "statement": "I can navigate new spaces quickly and have a strong sense of direction.", "reverse": false },
+    { "id": "hs-l-spa-04", "type": "likert", "intelligence": "spatial", "statement": "I often sketch or visualize ideas before I can articulate them verbally.", "reverse": false },
+    { "id": "hs-l-mus-01", "type": "likert", "intelligence": "musical", "statement": "Music is a core part of how I process emotions and experiences.", "reverse": false },
+    { "id": "hs-l-mus-02", "type": "likert", "intelligence": "musical", "statement": "I have a refined ear — I notice subtle details in rhythm, melody, and harmony.", "reverse": false },
+    { "id": "hs-l-mus-03", "type": "likert", "intelligence": "musical", "statement": "Creating or performing music is one of the most natural forms of expression for me.", "reverse": false },
+    { "id": "hs-l-mus-04", "type": "likert", "intelligence": "musical", "statement": "The emotional and structural complexity of music is something I deeply appreciate.", "reverse": false },
+    { "id": "hs-l-bod-01", "type": "likert", "intelligence": "bodily", "statement": "I learn and retain information best through physical experience and doing.", "reverse": false },
+    { "id": "hs-l-bod-02", "type": "likert", "intelligence": "bodily", "statement": "Physical pursuits — sports, dance, building, or craftsmanship — are central to who I am.", "reverse": false },
+    { "id": "hs-l-bod-03", "type": "likert", "intelligence": "bodily", "statement": "My body is an important tool for thinking and problem-solving.", "reverse": false },
+    { "id": "hs-l-bod-04", "type": "likert", "intelligence": "bodily", "statement": "I feel most alive and focused when I'm physically engaged in something.", "reverse": false },
+    { "id": "hs-l-itp-01", "type": "likert", "intelligence": "interpersonal", "statement": "I'm deeply attuned to the emotional states and motivations of people around me.", "reverse": false },
+    { "id": "hs-l-itp-02", "type": "likert", "intelligence": "interpersonal", "statement": "I'm naturally drawn to leadership, mentorship, or collaborative team dynamics.", "reverse": false },
+    { "id": "hs-l-itp-03", "type": "likert", "intelligence": "interpersonal", "statement": "People frequently seek me out for perspective, advice, or emotional support.", "reverse": false },
+    { "id": "hs-l-itp-04", "type": "likert", "intelligence": "interpersonal", "statement": "I find genuine energy and insight in human connection and group dynamics.", "reverse": false },
+    { "id": "hs-l-itr-01", "type": "likert", "intelligence": "intrapersonal", "statement": "Self-knowledge — understanding my values, fears, and motivations — is something I actively pursue.", "reverse": false },
+    { "id": "hs-l-itr-02", "type": "likert", "intelligence": "intrapersonal", "statement": "I'm most productive and creative when I have significant uninterrupted time alone.", "reverse": false },
+    { "id": "hs-l-itr-03", "type": "likert", "intelligence": "intrapersonal", "statement": "I have a strong, clear sense of personal identity and what I stand for.", "reverse": false },
+    { "id": "hs-l-itr-04", "type": "likert", "intelligence": "intrapersonal", "statement": "Inner reflection — through journaling, meditation, or contemplation — is a regular practice.", "reverse": false },
+    { "id": "hs-l-nat-01", "type": "likert", "intelligence": "naturalist", "statement": "I have a deep, genuine connection to the natural world and its patterns.", "reverse": false },
+    { "id": "hs-l-nat-02", "type": "likert", "intelligence": "naturalist", "statement": "Time in natural environments fundamentally restores and recharges me.", "reverse": false },
+    { "id": "hs-l-nat-03", "type": "likert", "intelligence": "naturalist", "statement": "I'm drawn to ecology, biology, environmental science, or conservation.", "reverse": false },
+    { "id": "hs-l-nat-04", "type": "likert", "intelligence": "naturalist", "statement": "The environmental crisis feels like a deeply personal and urgent concern to me.", "reverse": false },
+    { "id": "hs-l-exi-01", "type": "likert", "intelligence": "existential", "statement": "I'm genuinely preoccupied with questions about consciousness, mortality, and meaning.", "reverse": false },
+    { "id": "hs-l-exi-02", "type": "likert", "intelligence": "existential", "statement": "Philosophy, theology, or ethics aren't just academic — they feel personally essential.", "reverse": false },
+    { "id": "hs-l-exi-03", "type": "likert", "intelligence": "existential", "statement": "I need my work and life to connect to something larger than individual success.", "reverse": false },
+    { "id": "hs-l-exi-04", "type": "likert", "intelligence": "existential", "statement": "Questions about the nature of reality, time, and existence genuinely energize me.", "reverse": false },
+    { "id": "hs-l-dig-01", "type": "likert", "intelligence": "digital", "statement": "I pick up new technologies intuitively and enjoy exploring what they can do.", "reverse": false },
+    { "id": "hs-l-dig-02", "type": "likert", "intelligence": "digital", "statement": "Creating with digital tools — coding, design, video, or data — is genuinely satisfying.", "reverse": false },
+    { "id": "hs-l-dig-03", "type": "likert", "intelligence": "digital", "statement": "I think naturally in terms of systems, algorithms, and digital structures.", "reverse": false },
+    { "id": "hs-l-dig-04", "type": "likert", "intelligence": "digital", "statement": "I'm thoughtful about how technology shapes society, knowledge, and human behavior.", "reverse": false }
+  ]
+}

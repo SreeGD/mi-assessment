@@ -1,0 +1,146 @@
+{
+  "scenario": [
+    {
+      "id": "el-s-01", "type": "scenario", "intelligence": "linguistic",
+      "prompt": "It's free project time! You want to...",
+      "options": [
+        { "text": "Write a fun story or poem", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Draw a big colorful picture", "emoji": "🎨", "intelligence": "spatial" },
+        { "text": "Make up a silly song about it", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Build a model out of blocks or clay", "emoji": "🧱", "intelligence": "bodily" }
+      ]
+    },
+    {
+      "id": "el-s-02", "type": "scenario", "intelligence": "logical",
+      "prompt": "You have 12 crayons to share with 3 friends. You...",
+      "options": [
+        { "text": "Count them out carefully so everyone gets the same", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Ask everyone which colors they want most", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Think quietly about the fairest way", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Sort them by color like sorting leaves by type", "emoji": "🌿", "intelligence": "naturalist" }
+      ]
+    },
+    {
+      "id": "el-s-03", "type": "scenario", "intelligence": "spatial",
+      "prompt": "Your class is making a treasure map. You want to...",
+      "options": [
+        { "text": "Draw all the paths and landmarks on it", "emoji": "🗺️", "intelligence": "spatial" },
+        { "text": "Add symbols that feel magical and meaningful", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Make it on a computer or tablet", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Write all the clues and riddles", "emoji": "📖", "intelligence": "linguistic" }
+      ]
+    },
+    {
+      "id": "el-s-04", "type": "scenario", "intelligence": "musical",
+      "prompt": "At recess, what sounds most fun to you?",
+      "options": [
+        { "text": "Making up songs or clapping rhythms with friends", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Counting how many times you can jump rope", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Doing cartwheels and relay races", "emoji": "🤸", "intelligence": "bodily" },
+        { "text": "Playing with your best friend all day", "emoji": "👥", "intelligence": "interpersonal" }
+      ]
+    },
+    {
+      "id": "el-s-05", "type": "scenario", "intelligence": "bodily",
+      "prompt": "Your best kind of break from school is...",
+      "options": [
+        { "text": "Running around or playing a sport", "emoji": "🤸", "intelligence": "bodily" },
+        { "text": "Sitting quietly and daydreaming", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Looking for bugs, flowers, or clouds outside", "emoji": "🌿", "intelligence": "naturalist" },
+        { "text": "Wondering about something mysterious", "emoji": "✨", "intelligence": "existential" }
+      ]
+    },
+    {
+      "id": "el-s-06", "type": "scenario", "intelligence": "interpersonal",
+      "prompt": "A new kid at school looks lonely. You...",
+      "options": [
+        { "text": "Walk over and ask them to play with you", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Show them the cool things you can do on the school iPad", "emoji": "💻", "intelligence": "digital" },
+        { "text": "Leave them a friendly note on their desk", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "Think about the best way to include them in the group", "emoji": "🔢", "intelligence": "logical" }
+      ]
+    },
+    {
+      "id": "el-s-07", "type": "scenario", "intelligence": "intrapersonal",
+      "prompt": "When something upsets you, you feel better by...",
+      "options": [
+        { "text": "Thinking it through quietly by yourself", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "Drawing or painting how you feel", "emoji": "🎨", "intelligence": "spatial" },
+        { "text": "Humming a song that matches your mood", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Running around or playing outside", "emoji": "🤸", "intelligence": "bodily" }
+      ]
+    },
+    {
+      "id": "el-s-08", "type": "scenario", "intelligence": "naturalist",
+      "prompt": "Outside at recess, you love to...",
+      "options": [
+        { "text": "Look closely at bugs, plants, and animals", "emoji": "🌿", "intelligence": "naturalist" },
+        { "text": "Play games with lots of friends", "emoji": "👥", "intelligence": "interpersonal" },
+        { "text": "Wonder why the sky is blue or where clouds come from", "emoji": "✨", "intelligence": "existential" },
+        { "text": "Take photos of things with a tablet", "emoji": "💻", "intelligence": "digital" }
+      ]
+    },
+    {
+      "id": "el-s-09", "type": "scenario", "intelligence": "existential",
+      "prompt": "You wonder most about...",
+      "options": [
+        { "text": "Why people are alive and what happens when they die", "emoji": "✨", "intelligence": "existential" },
+        { "text": "How to describe your feelings in a perfect poem", "emoji": "📖", "intelligence": "linguistic" },
+        { "text": "How numbers explain patterns in everything around us", "emoji": "🔢", "intelligence": "logical" },
+        { "text": "Where animals go at night and how they find food", "emoji": "🌿", "intelligence": "naturalist" }
+      ]
+    },
+    {
+      "id": "el-s-10", "type": "scenario", "intelligence": "digital",
+      "prompt": "For show-and-tell, you would bring...",
+      "options": [
+        { "text": "A cool video or app you made on a device", "emoji": "💻", "intelligence": "digital" },
+        { "text": "A song you wrote and want to perform", "emoji": "🎵", "intelligence": "musical" },
+        { "text": "Your special journal of drawings and thoughts", "emoji": "🪞", "intelligence": "intrapersonal" },
+        { "text": "A collection of cool things you found in nature", "emoji": "🌿", "intelligence": "naturalist" }
+      ]
+    }
+  ],
+  "likert": [
+    { "id": "el-l-lin-01", "type": "likert", "intelligence": "linguistic", "statement": "I love reading books and stories.", "reverse": false },
+    { "id": "el-l-lin-02", "type": "likert", "intelligence": "linguistic", "statement": "I am good at explaining things using words.", "reverse": false },
+    { "id": "el-l-lin-03", "type": "likert", "intelligence": "linguistic", "statement": "I enjoy writing stories, poems, or letters.", "reverse": false },
+    { "id": "el-l-lin-04", "type": "likert", "intelligence": "linguistic", "statement": "I notice when someone uses a cool or interesting word.", "reverse": false },
+    { "id": "el-l-log-01", "type": "likert", "intelligence": "logical", "statement": "I love solving math problems.", "reverse": false },
+    { "id": "el-l-log-02", "type": "likert", "intelligence": "logical", "statement": "I like finding patterns in things.", "reverse": false },
+    { "id": "el-l-log-03", "type": "likert", "intelligence": "logical", "statement": "I like having clear steps to follow.", "reverse": false },
+    { "id": "el-l-log-04", "type": "likert", "intelligence": "logical", "statement": "I enjoy puzzles and brain teasers.", "reverse": false },
+    { "id": "el-l-spa-01", "type": "likert", "intelligence": "spatial", "statement": "I can picture things in my head really well.", "reverse": false },
+    { "id": "el-l-spa-02", "type": "likert", "intelligence": "spatial", "statement": "I love drawing and making pictures.", "reverse": false },
+    { "id": "el-l-spa-03", "type": "likert", "intelligence": "spatial", "statement": "I know where I am and don't get lost easily.", "reverse": false },
+    { "id": "el-l-spa-04", "type": "likert", "intelligence": "spatial", "statement": "I like to draw pictures when I am trying to figure something out.", "reverse": false },
+    { "id": "el-l-mus-01", "type": "likert", "intelligence": "musical", "statement": "I can remember a song after only hearing it a few times.", "reverse": false },
+    { "id": "el-l-mus-02", "type": "likert", "intelligence": "musical", "statement": "Music makes me feel different emotions.", "reverse": false },
+    { "id": "el-l-mus-03", "type": "likert", "intelligence": "musical", "statement": "I often hum or tap a beat without thinking about it.", "reverse": false },
+    { "id": "el-l-mus-04", "type": "likert", "intelligence": "musical", "statement": "I can tell when something sounds wrong in a song.", "reverse": false },
+    { "id": "el-l-bod-01", "type": "likert", "intelligence": "bodily", "statement": "I learn best by doing things with my hands.", "reverse": false },
+    { "id": "el-l-bod-02", "type": "likert", "intelligence": "bodily", "statement": "I love sports, dancing, or building things.", "reverse": false },
+    { "id": "el-l-bod-03", "type": "likert", "intelligence": "bodily", "statement": "It is hard for me to sit still for a long time.", "reverse": false },
+    { "id": "el-l-bod-04", "type": "likert", "intelligence": "bodily", "statement": "I am good at sports and moving my body.", "reverse": false },
+    { "id": "el-l-itp-01", "type": "likert", "intelligence": "interpersonal", "statement": "I like working with other kids more than working alone.", "reverse": false },
+    { "id": "el-l-itp-02", "type": "likert", "intelligence": "interpersonal", "statement": "I can tell when my friend is sad even if they don't say so.", "reverse": false },
+    { "id": "el-l-itp-03", "type": "likert", "intelligence": "interpersonal", "statement": "My friends come to me when they need help or feel sad.", "reverse": false },
+    { "id": "el-l-itp-04", "type": "likert", "intelligence": "interpersonal", "statement": "I am good at helping groups work together.", "reverse": false },
+    { "id": "el-l-itr-01", "type": "likert", "intelligence": "intrapersonal", "statement": "I think a lot about who I am and what I like.", "reverse": false },
+    { "id": "el-l-itr-02", "type": "likert", "intelligence": "intrapersonal", "statement": "I like to work by myself sometimes.", "reverse": false },
+    { "id": "el-l-itr-03", "type": "likert", "intelligence": "intrapersonal", "statement": "I know what I am good at and what I need to work on.", "reverse": false },
+    { "id": "el-l-itr-04", "type": "likert", "intelligence": "intrapersonal", "statement": "I pay attention to how I am feeling inside.", "reverse": false },
+    { "id": "el-l-nat-01", "type": "likert", "intelligence": "naturalist", "statement": "I notice plants, animals, and bugs that others miss.", "reverse": false },
+    { "id": "el-l-nat-02", "type": "likert", "intelligence": "naturalist", "statement": "I feel happy and calm when I am outside in nature.", "reverse": false },
+    { "id": "el-l-nat-03", "type": "likert", "intelligence": "naturalist", "statement": "I like learning about different animals and plants.", "reverse": false },
+    { "id": "el-l-nat-04", "type": "likert", "intelligence": "naturalist", "statement": "I care a lot about taking care of nature.", "reverse": false },
+    { "id": "el-l-exi-01", "type": "likert", "intelligence": "existential", "statement": "I wonder why people are alive and what life means.", "reverse": false },
+    { "id": "el-l-exi-02", "type": "likert", "intelligence": "existential", "statement": "I think about big questions like fairness and being good.", "reverse": false },
+    { "id": "el-l-exi-03", "type": "likert", "intelligence": "existential", "statement": "I like talking about deep ideas.", "reverse": false },
+    { "id": "el-l-exi-04", "type": "likert", "intelligence": "existential", "statement": "I think about what it means to be a good person.", "reverse": false },
+    { "id": "el-l-dig-01", "type": "likert", "intelligence": "digital", "statement": "I learn new apps and games really fast.", "reverse": false },
+    { "id": "el-l-dig-02", "type": "likert", "intelligence": "digital", "statement": "I love making things on a computer or tablet.", "reverse": false },
+    { "id": "el-l-dig-03", "type": "likert", "intelligence": "digital", "statement": "I understand how computers and devices work.", "reverse": false },
+    { "id": "el-l-dig-04", "type": "likert", "intelligence": "digital", "statement": "I am good at finding things online.", "reverse": false }
+  ]
+}
