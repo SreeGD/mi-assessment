@@ -15,7 +15,7 @@ type Props = {
   recommendations: RecommendationEntry
 }
 
-export function RecommendationPanel({ topIntelligence: _topIntelligence, tier, recommendations }: Props) {
+export function RecommendationPanel({ tier, recommendations }: Omit<Props, 'topIntelligence'> & { topIntelligence: IntelligenceKey }) {
   const panels = [
     {
       icon: '🎓',
