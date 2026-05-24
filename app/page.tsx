@@ -11,7 +11,7 @@ export default function HomePage() {
           Discover How <em className="text-violet-400 not-italic">You</em> Are Intelligent
         </h1>
         <p className="text-slate-400 text-lg max-w-xl mx-auto mb-8">
-          A free, science-backed assessment of Howard Gardner's Multiple Intelligences.
+          A free, science-backed assessment of Howard Gardner&apos;s Multiple Intelligences.
           Get your personal profile in under 15 minutes.
         </p>
         <Link
@@ -65,7 +65,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="px-6 py-8 text-center text-slate-500 text-sm">
-        <p>Based on Howard Gardner's Theory of Multiple Intelligences (1983, 2000)</p>
+        <p>Based on Howard Gardner&apos;s Theory of Multiple Intelligences (1983, 2000)</p>
         <p className="mt-1">For students, educators, parents, and career-seekers</p>
       </footer>
     </div>
