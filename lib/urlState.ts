@@ -7,8 +7,7 @@ export function encodeResults(result: AssessmentResult): string {
   const scoresStr = result.scores
     .map(s => `${s.intelligence}:${s.normalized}`)
     .join(',')
-  const topStr = result.topThree.join(',')
-  return `t=${result.tier}&s=${scoresStr}&top=${topStr}`
+  return `t=${result.tier}&s=${scoresStr}`
 }
 
 export function decodeResults(hash: string): AssessmentResult | null {
@@ -33,12 +32,7 @@ export function decodeResults(hash: string): AssessmentResult | null {
     if (scores.some(s => isNaN(s.normalized))) return null
 
     const sorted = [...scores].sort((a, b) => b.normalized - a.normalized)
-
-    // Restore topThree from encoded value if present, otherwise derive from sorted scores
-    const topStr = params.get('top')
-    const topThree = topStr
-      ? (topStr.split(',') as AssessmentResult['topThree'])
-      : (sorted.slice(0, 3).map(s => s.intelligence) as AssessmentResult['topThree'])
+    const topThree = sorted.slice(0, 3).map(s => s.intelligence)
 
     return {
       tier,

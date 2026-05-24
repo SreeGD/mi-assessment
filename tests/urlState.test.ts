@@ -11,8 +11,8 @@ const mockResult: AssessmentResult = {
     raw: (i + 1) * 2,
     normalized: Math.min(100, Math.round(((i + 1) * 2) / 36 * 100)),
   })),
-  topThree: ['linguistic', 'logical', 'spatial'],
-  heroLabel: 'Linguistic Thinker',
+  topThree: ['digital', 'existential', 'naturalist'],
+  heroLabel: 'Digital-Existential Thinker',
 }
 
 describe('encodeResults', () => {
@@ -34,7 +34,7 @@ describe('decodeResults', () => {
     expect(decoded).not.toBeNull()
     expect(decoded!.tier).toBe('highschool')
     expect(decoded!.scores).toHaveLength(10)
-    expect(decoded!.topThree).toEqual(['linguistic', 'logical', 'spatial'])
+    expect(decoded!.topThree).toEqual(['digital', 'existential', 'naturalist'])
   })
 
   it('handles hash with leading # character', () => {
