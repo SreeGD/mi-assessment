@@ -1,0 +1,62 @@
+{
+  "linguistic": {
+    "characterDescription": "You love words, stories, and the magic of language.",
+    "learningStrategies": ["Read aloud to yourself", "Write stories about what you learn", "Play word games and puzzles", "Use rhymes to remember facts"],
+    "careerPaths": ["Author", "Teacher", "Journalist", "Librarian", "Storyteller"],
+    "subjects": ["Reading", "Writing", "Language Arts", "Drama", "Social Studies"]
+  },
+  "logical": {
+    "characterDescription": "You love figuring things out and solving puzzles.",
+    "learningStrategies": ["Use charts and organized notes", "Look for patterns in what you study", "Try math games and logic puzzles", "Ask 'why' and 'how' questions"],
+    "careerPaths": ["Scientist", "Engineer", "Computer Programmer", "Mathematician", "Doctor"],
+    "subjects": ["Math", "Science", "Coding", "Chess Club", "Logic Puzzles"]
+  },
+  "spatial": {
+    "characterDescription": "You think in pictures and love making things look amazing.",
+    "learningStrategies": ["Draw pictures and diagrams to learn", "Use color-coded notes", "Build models of what you study", "Watch videos that show things visually"],
+    "careerPaths": ["Artist", "Architect", "Game Designer", "Illustrator", "Animator"],
+    "subjects": ["Art", "Geometry", "Science", "Geography", "Design"]
+  },
+  "musical": {
+    "characterDescription": "You hear the world in rhythms, melodies, and beats.",
+    "learningStrategies": ["Set facts to music or rhymes", "Study with background music", "Clap or tap rhythms to memorize things", "Create songs about what you learn"],
+    "careerPaths": ["Musician", "Music Teacher", "Songwriter", "Music Producer", "Conductor"],
+    "subjects": ["Music", "Band", "Choir", "Dance", "Drama"]
+  },
+  "bodily": {
+    "characterDescription": "You learn best when you're moving and doing things with your hands.",
+    "learningStrategies": ["Take movement breaks while studying", "Act out what you're learning", "Build or make things to understand concepts", "Study standing up or walking"],
+    "careerPaths": ["Athlete", "Physical Therapist", "Chef", "Dancer", "Builder"],
+    "subjects": ["PE", "Art", "Science Labs", "Drama", "Woodworking"]
+  },
+  "interpersonal": {
+    "characterDescription": "You have a gift for understanding people and making friends.",
+    "learningStrategies": ["Study in groups", "Teach what you know to a friend", "Use role-playing to understand different perspectives", "Join clubs and team activities"],
+    "careerPaths": ["Teacher", "Counselor", "Community Leader", "Social Worker", "Coach"],
+    "subjects": ["Social Studies", "Language Arts", "Drama", "Community Service", "Health"]
+  },
+  "intrapersonal": {
+    "characterDescription": "You know yourself well and love quiet time to think and dream.",
+    "learningStrategies": ["Keep a learning journal", "Set personal goals before each study session", "Reflect on what you learned at the end of each day", "Choose topics that connect to your interests"],
+    "careerPaths": ["Writer", "Counselor", "Researcher", "Entrepreneur", "Therapist"],
+    "subjects": ["Writing", "Reading", "Art", "Independent Projects", "Social Studies"]
+  },
+  "naturalist": {
+    "characterDescription": "You notice animals, plants, and patterns in the natural world.",
+    "learningStrategies": ["Learn outside when possible", "Collect and categorize natural objects", "Connect lessons to nature examples", "Keep a nature journal with drawings"],
+    "careerPaths": ["Biologist", "Zookeeper", "Park Ranger", "Vet", "Environmental Scientist"],
+    "subjects": ["Science", "Nature Studies", "Geography", "Art", "Gardening Club"]
+  },
+  "existential": {
+    "characterDescription": "You ask big questions about life and love thinking deeply.",
+    "learningStrategies": ["Connect learning to big 'why' questions", "Read stories with deep meanings", "Journal about what you wonder about", "Discuss ideas with trusted adults"],
+    "careerPaths": ["Philosopher", "Minister", "Counselor", "Author", "Educator"],
+    "subjects": ["Reading", "Social Studies", "Art", "Philosophy for Kids", "Writing"]
+  },
+  "digital": {
+    "characterDescription": "You love computers, apps, and figuring out how technology works.",
+    "learningStrategies": ["Use educational apps and games to learn", "Create digital projects about topics you study", "Watch how-to videos and tutorials", "Try coding games like Scratch"],
+    "careerPaths": ["Software Developer", "Game Designer", "Robotics Engineer", "Digital Artist", "Tech Inventor"],
+    "subjects": ["Computer Science", "Math", "Science", "Coding Club", "Digital Art"]
+  }
+}

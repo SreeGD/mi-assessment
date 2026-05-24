@@ -1,0 +1,62 @@
+{
+  "linguistic": {
+    "characterDescription": "Language is your most powerful professional instrument — you communicate with precision, nuance, and impact.",
+    "learningStrategies": ["Write to think — summarize new knowledge in your own voice", "Seek out roles with writing, presenting, or storytelling components", "Read primary sources and diverse perspectives on your field", "Lead with narrative when explaining complex ideas to others"],
+    "careerPaths": ["Content Strategist", "Journalist", "Attorney", "Communications Director", "Author", "Editor", "Policy Writer"],
+    "subjects": ["Communication & Rhetoric", "Creative Writing", "Law", "Linguistics", "Journalism", "Marketing"]
+  },
+  "logical": {
+    "characterDescription": "You build mental frameworks instinctively — analysis, strategy, and structured problem-solving are your professional edge.",
+    "learningStrategies": ["Approach new domains systematically — map the structure before the details", "Use data to challenge your own assumptions", "Build decision frameworks for complex professional choices", "Pursue roles that reward strategic and analytical thinking"],
+    "careerPaths": ["Software Engineer", "Data Scientist", "Financial Analyst", "Management Consultant", "Researcher", "Product Manager"],
+    "subjects": ["Statistics & Data Analysis", "Systems Thinking", "Finance", "Operations Research", "Computer Science"]
+  },
+  "spatial": {
+    "characterDescription": "You translate ideas into form — visual, spatial, and design thinking are genuine professional strengths.",
+    "learningStrategies": ["Diagram systems and concepts before working on them", "Use visual tools like Figma, Miro, or Mural for thinking", "Translate complex topics into infographics and visual explanations", "Pursue roles where aesthetics and function intersect"],
+    "careerPaths": ["UX/UI Designer", "Architect", "Data Visualization Specialist", "Film Director", "Product Designer", "Interior Designer"],
+    "subjects": ["Design Thinking", "Architecture", "Data Visualization", "3D Modeling", "Urban Planning"]
+  },
+  "musical": {
+    "characterDescription": "Your mind moves to rhythm and pattern — music is both your identity and a lens through which you understand everything.",
+    "learningStrategies": ["Use rhythm and cadence as structure in professional presentations", "Leverage your pattern sensitivity in analytical or creative work", "Build music into your professional development practice", "Seek roles where your sonic and creative sensibility adds value"],
+    "careerPaths": ["Music Producer", "Audio Engineer", "Composer", "Music Educator", "Music Therapist", "Sound Designer", "Podcast Producer"],
+    "subjects": ["Music Production", "Audio Technology", "Music Business", "Music Therapy", "Media Arts"]
+  },
+  "bodily": {
+    "characterDescription": "Physical craft, embodied expertise, and kinesthetic precision are at the core of your professional identity.",
+    "learningStrategies": ["Learn by doing — prioritize hands-on internships and applied work", "Use movement and physical anchors to retain complex information", "Seek mentorships and apprenticeships in your craft", "Build portfolios of tangible work rather than written reports"],
+    "careerPaths": ["Surgeon", "Physical Therapist", "Chef", "Athlete / Coach", "Craftsperson", "Occupational Therapist", "Dance Educator"],
+    "subjects": ["Kinesiology", "Physical Therapy", "Culinary Arts", "Medicine", "Athletic Training"]
+  },
+  "interpersonal": {
+    "characterDescription": "You read people, build trust, and create alignment — social intelligence is your most transferable professional asset.",
+    "learningStrategies": ["Reflect on each significant professional interaction: what worked, what didn't?", "Invest in coaching and mentoring others as a learning practice", "Seek 360-degree feedback to calibrate your interpersonal impact", "Build diverse networks — different perspectives sharpen social intelligence"],
+    "careerPaths": ["Executive / People Manager", "HR Leader", "Therapist / Counselor", "Sales Director", "Organizational Consultant", "Nonprofit Leader"],
+    "subjects": ["Organizational Psychology", "Leadership Development", "Negotiation", "Coaching", "Conflict Resolution"]
+  },
+  "intrapersonal": {
+    "characterDescription": "Self-awareness is your compass — you know your values, your limits, and the kind of work that truly fulfills you.",
+    "learningStrategies": ["Maintain a professional reflection journal — track growth, not just output", "Build in solitude for your best thinking — protect deep work time", "Use coaching or therapy as professional development tools", "Evaluate career decisions against personal values, not just compensation"],
+    "careerPaths": ["Psychologist", "Independent Consultant", "Author / Researcher", "Entrepreneur", "Executive Coach", "Philosopher"],
+    "subjects": ["Psychology", "Mindfulness & Well-being", "Philosophy", "Entrepreneurship", "Organizational Behavior"]
+  },
+  "naturalist": {
+    "characterDescription": "You see living systems, ecological patterns, and natural order where others see background noise.",
+    "learningStrategies": ["Use biological systems as mental models for organizational and social challenges", "Pursue field-based learning and applied ecology whenever possible", "Connect sustainability and environmental thinking to your professional context", "Study classification systems across domains — they activate naturalist thinking"],
+    "careerPaths": ["Biologist / Ecologist", "Environmental Policy Analyst", "Veterinarian", "Conservation Scientist", "Sustainability Consultant", "Marine Biologist"],
+    "subjects": ["Ecology", "Environmental Science", "Conservation Biology", "Sustainability Studies", "Zoology"]
+  },
+  "existential": {
+    "characterDescription": "Purpose, meaning, and ethics are not abstract concepts to you — they drive every significant professional decision.",
+    "learningStrategies": ["Evaluate every professional opportunity through the lens of meaning and alignment", "Engage with philosophy, theology, and social theory alongside domain expertise", "Write and speak about values and purpose — it clarifies and strengthens them", "Seek organizations with explicit mission alignment"],
+    "careerPaths": ["Ethicist", "Nonprofit / Social Enterprise Leader", "Philosopher", "Theologian", "Therapist", "Policy Advocate", "Author"],
+    "subjects": ["Philosophy", "Ethics", "Theology", "Social Justice", "Political Science", "Nonprofit Management"]
+  },
+  "digital": {
+    "characterDescription": "Technology is both your craft and your worldview — you build, optimize, and reimagine digital systems at a professional level.",
+    "learningStrategies": ["Build projects in every new domain you enter — applied beats theoretical", "Stay current with technology trends and their second-order effects", "Contribute to open-source or build in public as a learning practice", "Use tools like GitHub, Notion, and data platforms to create a professional artifact trail"],
+    "careerPaths": ["Software Engineer", "AI/ML Engineer", "CTO / VP Engineering", "Product Manager", "Cybersecurity Expert", "Digital Entrepreneur"],
+    "subjects": ["Software Engineering", "Machine Learning", "Cybersecurity", "Product Management", "Data Science"]
+  }
+}

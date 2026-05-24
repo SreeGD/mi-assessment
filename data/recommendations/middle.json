@@ -1,0 +1,62 @@
+{
+  "linguistic": {
+    "characterDescription": "Language is your superpower — you think in words and communicate with impact.",
+    "learningStrategies": ["Rewrite notes in your own words", "Join debate club or creative writing", "Record yourself explaining concepts", "Read widely across genres"],
+    "careerPaths": ["Journalist", "Author", "Lawyer", "Editor", "Speech-Language Pathologist", "Marketing Copywriter"],
+    "subjects": ["English/ELA", "History", "Drama", "Debate", "Foreign Languages"]
+  },
+  "logical": {
+    "characterDescription": "You love patterns, puzzles, and the satisfaction of finding the right answer.",
+    "learningStrategies": ["Organize notes into flowcharts or diagrams", "Work through practice problems before asking for help", "Code simple programs to test ideas", "Use apps like Khan Academy for structured learning"],
+    "careerPaths": ["Engineer", "Data Scientist", "Doctor", "Accountant", "Programmer", "Mathematician"],
+    "subjects": ["Math", "Science", "Computer Science", "Economics", "Logic/Philosophy"]
+  },
+  "spatial": {
+    "characterDescription": "You see the world in vivid images and can visualize things others can't.",
+    "learningStrategies": ["Mind-map your notes", "Use diagrams and infographics", "Sketch concepts before writing about them", "Watch documentaries that show things visually"],
+    "careerPaths": ["Architect", "Graphic Designer", "Animator", "Surgeon", "Game Developer", "Urban Planner"],
+    "subjects": ["Art", "Geometry", "Geography", "Design/Maker", "Photography"]
+  },
+  "musical": {
+    "characterDescription": "You feel rhythm and melody everywhere — music is how you think.",
+    "learningStrategies": ["Create songs or raps to memorize formulas or timelines", "Use rhythmic pattern-reading for studying", "Study with instrumental music", "Join band, choir, or music production"],
+    "careerPaths": ["Musician", "Music Producer", "Film Composer", "Music Educator", "Sound Designer"],
+    "subjects": ["Music", "Band/Orchestra", "Choir", "Drama", "Media Arts"]
+  },
+  "bodily": {
+    "characterDescription": "You learn by doing, building, and moving — your body is part of your brain.",
+    "learningStrategies": ["Take frequent study breaks to move", "Build models or use props to explain concepts", "Act out historical events or science processes", "Type notes instead of handwriting if that helps you focus"],
+    "careerPaths": ["Physical Therapist", "Athlete", "Chef", "Surgeon", "Choreographer", "Craftsperson"],
+    "subjects": ["PE", "Science Labs", "Maker/Tech Ed", "Drama", "Art"]
+  },
+  "interpersonal": {
+    "characterDescription": "You read people naturally and bring groups together.",
+    "learningStrategies": ["Form study groups and take the lead", "Teach concepts to classmates to solidify your understanding", "Volunteer for group projects and leadership roles", "Use discussion-based learning whenever possible"],
+    "careerPaths": ["Counselor", "Teacher", "Social Worker", "Manager", "Community Organizer", "Politician"],
+    "subjects": ["Social Studies", "Health", "Drama", "Leadership", "Community Service"]
+  },
+  "intrapersonal": {
+    "characterDescription": "You know yourself deeply and work best with independence and purpose.",
+    "learningStrategies": ["Keep a study journal tracking what clicked and what didn't", "Set personal learning goals each week", "Choose independent projects that connect to your interests", "Reflect before tests: what do I actually know vs. think I know?"],
+    "careerPaths": ["Psychologist", "Entrepreneur", "Author", "Life Coach", "Research Scientist"],
+    "subjects": ["English/Writing", "Psychology", "Independent Study", "Philosophy", "Counseling-related electives"]
+  },
+  "naturalist": {
+    "characterDescription": "You notice details in the natural world that others walk right past.",
+    "learningStrategies": ["Use biological examples and analogies to understand any subject", "Study outside when possible", "Keep a nature journal with observations", "Connect current events to ecological systems"],
+    "careerPaths": ["Biologist", "Environmental Scientist", "Veterinarian", "Marine Biologist", "Park Ranger", "Ecologist"],
+    "subjects": ["Biology", "Earth Science", "Environmental Studies", "Geography", "Chemistry"]
+  },
+  "existential": {
+    "characterDescription": "You wrestle with the big questions — and that's one of your greatest strengths.",
+    "learningStrategies": ["Connect all subjects to a 'why does this matter?' question", "Journal about ethical dilemmas and your evolving views", "Join philosophy club or ethics discussions", "Seek out teachers who welcome deep questions"],
+    "careerPaths": ["Philosopher", "Theologian", "Ethicist", "Author", "Counselor", "Social Justice Advocate"],
+    "subjects": ["Philosophy", "Religion/Ethics", "History", "English Literature", "Sociology"]
+  },
+  "digital": {
+    "characterDescription": "Technology is your native language — you navigate digital systems instinctively.",
+    "learningStrategies": ["Use digital tools to organize and visualize your learning", "Build apps, games, or websites as project alternatives", "Follow tech YouTubers and podcasts about things that interest you", "Contribute to open-source projects or coding competitions"],
+    "careerPaths": ["Software Engineer", "UX Designer", "Cybersecurity Analyst", "Game Developer", "AI Researcher"],
+    "subjects": ["Computer Science", "Math", "Digital Media", "Engineering", "Robotics Club"]
+  }
+}

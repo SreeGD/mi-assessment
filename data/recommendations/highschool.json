@@ -1,0 +1,62 @@
+{
+  "linguistic": {
+    "characterDescription": "Language is your primary lens for understanding the world — words are how you think, persuade, and connect.",
+    "learningStrategies": ["Write summaries in your own voice to internalize material", "Debate ideas out loud with peers or teachers", "Read primary sources and original texts, not just summaries", "Keep a vocabulary and ideas journal"],
+    "careerPaths": ["Journalist", "Author", "Lawyer", "PR/Communications", "Editor", "Linguist", "Screenwriter"],
+    "subjects": ["AP English", "Debate", "Creative Writing", "Foreign Languages", "History", "Law & Government"]
+  },
+  "logical": {
+    "characterDescription": "You see structure where others see chaos — logic and systems thinking are your native language.",
+    "learningStrategies": ["Solve problems before reading solutions", "Create frameworks and decision trees for complex topics", "Code projects that test the concepts you're studying", "Pursue math competitions and science olympiad"],
+    "careerPaths": ["Engineer", "Data Scientist", "Actuary", "Software Developer", "Doctor", "Investment Analyst", "Research Scientist"],
+    "subjects": ["AP Calculus", "Statistics", "Computer Science", "Physics", "Economics", "AP Chemistry"]
+  },
+  "spatial": {
+    "characterDescription": "You think in images and visualize solutions that others can't see yet.",
+    "learningStrategies": ["Diagram everything — concepts, timelines, relationships", "Use visual note-taking methods like sketchnotes", "Create infographics and visual essays as study tools", "Watch lectures with strong visual components"],
+    "careerPaths": ["Architect", "UX/UI Designer", "Surgeon", "Film Director", "Game Designer", "Urban Planner", "Animator"],
+    "subjects": ["AP Art", "Geometry", "Architecture", "Photography", "Computer Graphics", "Geography"]
+  },
+  "musical": {
+    "characterDescription": "You think in patterns, rhythm, and tone — music is your deepest form of intelligence.",
+    "learningStrategies": ["Use music mnemonics for memorization", "Study with instrumental music at a consistent tempo", "Find rhythmic patterns in math, poetry, and language", "Pursue original composition as a form of personal expression"],
+    "careerPaths": ["Musician", "Music Producer", "Film Composer", "Music Educator", "Audio Engineer", "Sound Designer", "Music Therapist"],
+    "subjects": ["AP Music Theory", "Band/Orchestra", "Composition", "Music Production", "Drama", "Film Studies"]
+  },
+  "bodily": {
+    "characterDescription": "Your body is part of your cognitive system — hands-on experience is how you truly understand.",
+    "learningStrategies": ["Do lab work and hands-on projects over reading", "Use physical movement to memorize sequences or processes", "Build prototypes and models as study tools", "Take on internships or apprenticeships in physical crafts"],
+    "careerPaths": ["Physical Therapist", "Surgeon", "Athlete", "Choreographer", "Chef", "Firefighter", "Physical Education Teacher"],
+    "subjects": ["AP Physics Labs", "Engineering", "PE", "Drama", "Culinary Arts", "Nursing/CNA"]
+  },
+  "interpersonal": {
+    "characterDescription": "You read people and rooms with uncanny accuracy — social intelligence is your edge.",
+    "learningStrategies": ["Lead study groups and teach concepts to peers", "Use collaborative projects to explore ideas", "Seek out mentors and meaningful conversations with adults", "Volunteer and intern in roles involving people"],
+    "careerPaths": ["Manager", "Counselor", "Teacher", "Social Worker", "Politician", "Sales/Business Development", "HR Professional"],
+    "subjects": ["Psychology", "Sociology", "Leadership", "Speech/Debate", "Community Service", "AP Government"]
+  },
+  "intrapersonal": {
+    "characterDescription": "You know yourself deeply — self-awareness is one of the rarest and most powerful intelligences.",
+    "learningStrategies": ["Reflect weekly: what did you learn, how did you grow, what confused you?", "Choose electives and projects aligned with genuine interests", "Use journaling to process difficult material", "Set autonomous learning goals and track your own progress"],
+    "careerPaths": ["Psychologist", "Author", "Entrepreneur", "Researcher", "Life Coach", "Philosopher", "Independent Artist"],
+    "subjects": ["AP Psychology", "Creative Writing", "Independent Study", "Philosophy", "Entrepreneurship"]
+  },
+  "naturalist": {
+    "characterDescription": "You notice details in living systems and ecological patterns that most people miss entirely.",
+    "learningStrategies": ["Connect every subject to natural systems (biology in history, chemistry in ecology)", "Keep field notes and nature journals", "Pursue environmental clubs and outdoor programs", "Study taxonomy and classification as a learning framework"],
+    "careerPaths": ["Biologist", "Environmental Scientist", "Veterinarian", "Marine Biologist", "Ecologist", "Environmental Policy Analyst"],
+    "subjects": ["AP Biology", "AP Environmental Science", "Earth Science", "Chemistry", "Statistics for Ecology"]
+  },
+  "existential": {
+    "characterDescription": "You grapple with the biggest questions — purpose, meaning, justice, and consciousness.",
+    "learningStrategies": ["Connect all subjects to deeper 'why' questions", "Read philosophy and social theory alongside textbooks", "Engage with ethics debates in every subject area", "Write personally and philosophically, not just analytically"],
+    "careerPaths": ["Philosopher", "Theologian", "Author", "Social Justice Lawyer", "Counselor", "Ethicist", "Nonprofit Leader"],
+    "subjects": ["AP Philosophy", "AP Literature", "Ethics", "Religion/Theology", "Sociology", "AP Government"]
+  },
+  "digital": {
+    "characterDescription": "Technology feels like a native language — you build, break, and improve digital systems intuitively.",
+    "learningStrategies": ["Build real projects as learning tools (apps, websites, scripts)", "Follow technology news and understand the deeper implications", "Contribute to open-source or compete in hackathons", "Use tools like GitHub, Figma, or Jupyter to document your work"],
+    "careerPaths": ["Software Engineer", "UX Designer", "AI/ML Engineer", "Cybersecurity Analyst", "Product Manager", "Game Developer"],
+    "subjects": ["AP Computer Science", "Statistics", "Engineering", "Digital Media Arts", "Robotics", "AP Physics"]
+  }
+}
