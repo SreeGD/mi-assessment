@@ -42,3 +42,9 @@ next-env.d.ts
 
 # Superpowers internal tooling
 .superpowers/
+
+# Screenshots and Playwright output
+*.png
+*.jpeg
+*.jpg
+.playwright-mcp/
